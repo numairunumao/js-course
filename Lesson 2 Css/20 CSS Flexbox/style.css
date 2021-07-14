@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+}
+
+.boxed {
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 50px;
+}

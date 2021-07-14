@@ -1,0 +1,10 @@
+.boxed {
+    width: 500px;
+    height: 200px;
+    background-color: red;
+    overflow: auto;
+}
+
+.boxed p {
+    color: yellow;
+}

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: kanit-bold;
+  src: url(./fonts/Kanit-Bold.ttf);
+}
+
+@font-face {
+  font-family: kanit-medium;
+  src: url(./fonts/Kanit-Medium.ttf);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@100&display=swap");
+
+
+
+p.bold-text {
+  font-family: kanit-medium;
+}

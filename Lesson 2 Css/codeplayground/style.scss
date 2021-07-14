@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+header {
+  padding: 15px;
+  background-color: #cccccc;
+}
+.menu-container {
+  ul {
+    padding-left: 0;
+    margin: 0;
+    li {
+      background-color: purple;
+      a {
+        font-size: 20px;
+      }
+    }
+  }
+}
+.menu-container {
+  background-color: teal;
+}
+.menu-container ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 15px;
+}
+footer {
+  padding: 15px;
+  background-color: red;
+}
+
+.content {
+  padding: 15px;
+  height: calc(100vh - 174px);
+}
