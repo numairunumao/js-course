@@ -250,4 +250,30 @@ footer.second p {
 }
 
 /*---media start----*/
+@media only screen and (max-width: 768px) {
+  .one-fourth {
+    width: 100%;
+  }
+  .inner-wrapper #tablet,
+  .inner-wrapper #tablet2 {
+    width: 100%;
+  }
+  .inner-wrapper-2 #mobile,
+  .inner-wrapper-2 .hand-mobile {
+    width: 100%;
+  }
+  .inner-wrapper article,
+  .inner-wrapper #desktop {
+    width: 100%;
+  }
+  .inner-wrapper-3 .one-third {
+    width: 100%;
+  }
+  nav #menu-icon {
+    display: inline-block;
+  }
+  nav ul li {
+    display: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */

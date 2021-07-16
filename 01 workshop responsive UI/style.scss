@@ -210,3 +210,46 @@ footer.second p {
   text-align: center;
 }
 /*---media start----*/
+
+// Responsive
+
+@media only screen and (max-width: 768px) {
+  .one-fourth {
+    width: 100%;
+  }
+  .inner-wrapper {
+    #tablet,
+    #tablet2 {
+      width: 100%;
+    }
+  }
+
+  .inner-wrapper-2 {
+    #mobile,
+    .hand-mobile {
+      width: 100%;
+    }
+  }
+
+  .inner-wrapper {
+    article,
+    #desktop {
+      width: 100%;
+    }
+  }
+
+  .inner-wrapper-3 {
+    .one-third {
+      width: 100%;
+    }
+  }
+
+  nav {
+    #menu-icon {
+      display: inline-block;
+    }
+    ul li {
+      display: none;
+    }
+  }
+}
