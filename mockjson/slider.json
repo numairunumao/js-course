@@ -1,0 +1,20 @@
+{
+  "slider": [
+    {
+      "id": 1,
+      "imageUrl": "https://static.nike.com/a/images/f_auto/dpr_1.0/w_1792,c_limit/2cd765cb-063a-49d3-94bb-685875251e53/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87-nike.png"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://static.nike.com/a/images/f_auto/dpr_1.0/w_1792,c_limit/2cd765cb-063a-49d3-94bb-685875251e53/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87-nike.png"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://static.nike.com/a/images/f_auto/dpr_1.0/w_1792,c_limit/2cd765cb-063a-49d3-94bb-685875251e53/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87-nike.png"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://static.nike.com/a/images/f_auto/dpr_1.0/w_1792,c_limit/2cd765cb-063a-49d3-94bb-685875251e53/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87-nike.png"
+    }
+  ]
+}
